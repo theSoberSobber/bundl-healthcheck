@@ -4,19 +4,19 @@
     "url": "https://backend-bundl.1110777.xyz/health",
     "icon": "https://icons.duckduckgo.com/ip3/backend-bundl.1110777.xyz.ico",
     "slug": "bundl-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "97.30%",
+    "uptimeDay": "96.28%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "97.30%",
+    "uptimeYear": "97.30%",
     "time": 892,
-    "timeDay": 893,
+    "timeDay": 892,
     "timeWeek": 892,
     "timeMonth": 892,
     "timeYear": 892,
     "dailyMinutesDown": {
-      "2025-05-11": 0
+      "2025-05-11": 54
     }
   },
   {
