@@ -1,7 +1,7 @@
 url: https://backend-bundl.1110777.xyz/health
-status: down
-code: 502
-responseTime: 926
-lastUpdated: 2025-05-24T07:14:19.067Z
+status: up
+code: 200
+responseTime: 815
+lastUpdated: 2025-05-24T07:28:48.318Z
 startTime: 2025-05-10T10:14:36.142Z
 generator: Upptime <https://github.com/upptime/upptime>
