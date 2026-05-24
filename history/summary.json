@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend-bundl.1110777.xyz.ico",
     "slug": "bundl-backend",
     "status": "down",
-    "uptime": "49.08%",
+    "uptime": "48.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "47.32%",
+    "uptimeYear": "47.04%",
     "time": 1066,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 627,
+    "timeMonth": 816,
     "timeYear": 1077,
     "dailyMinutesDown": {
-      "2026-05-23": 221,
+      "2026-05-24": 244,
+      "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -250,8 +251,7 @@
       "2025-06-11": 1440,
       "2025-06-10": 579,
       "2025-05-29": 13,
-      "2025-05-27": 11,
-      "2025-05-24": 38
+      "2025-05-27": 11
     }
   },
   {
@@ -260,18 +260,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend-orvio.1110777.xyz.ico",
     "slug": "orvio-backend",
     "status": "down",
-    "uptime": "48.66%",
+    "uptime": "48.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.87%",
+    "uptimeYear": "46.59%",
     "time": 882,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 627,
+    "timeMonth": 811,
     "timeYear": 881,
     "dailyMinutesDown": {
-      "2026-05-23": 222,
+      "2026-05-24": 244,
+      "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -500,8 +501,7 @@
       "2025-06-11": 1440,
       "2025-06-10": 579,
       "2025-05-29": 13,
-      "2025-05-27": 11,
-      "2025-05-24": 23
+      "2025-05-27": 11
     }
   }
 ]
